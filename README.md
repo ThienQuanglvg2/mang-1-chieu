@@ -1,2 +1,2 @@
-# M-ng-m-t-chi-u
+# Mangmotchieu
 Bài tập mảng một chiều
