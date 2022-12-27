@@ -1,2 +1,2 @@
 # Mangmotchieu
-Bài tập mảng một chiều
+bai tap mang mot chieu
